@@ -9,7 +9,12 @@ The Farzanegan1 Team originally start working on 2017 in RoboCup junior soccer l
 Nastaran Hashemi, Aida Reyhani, Saba EbrahimiNezhadFard, Fatemeh YaghobiZadeh, Mobina EskandariNia, Mobina Mohammadian, Tamana Amraji, Fatemeh Alizadeh, Elaheh Alizadeh, Afra Jalali, Rozhan JalilVand
 
 ## 2019
-Tamana Amraji, Saba AllahYari, Afra Jalali, Seyedeh Saba Sajasi, Zeynab Amini, Saba Sinaee, Sara Vaezi, Saba Salehi, Kiana Kholousi, Negar KhalilAzar, Mahsa Farokh, Hasti Hadian, Zahra Bahri
+Tamana Amraji, Saba AllahYari, Afra Jalali, Seyedeh Saba Sajasi, Zeynab Amini, Saba Sinaee, Sara Vaezi, Saba Salehi, Kiana Kholousi, Negar KhalilAzar, Mahsa Farokh, Hasti Hadian, Zahra Bahri, Arezoo Savlani
+
+### 3GigaHZ Teams
+Saba Salehi, Kiana Kholousi, Seyedeh Saba Sajasi, Arezoo Savlani
+Team's GitHub:
+https://github.com/JavadRah/3GigaHZ.git
 
 ## 2020
 :D
