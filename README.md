@@ -13,7 +13,7 @@ Tamana Amraji, Saba AllahYari, Afra Jalali, Seyedeh Saba Sajasi, Zeynab Amini, S
 
 ### 3GigaHZ Teams
 Saba Salehi, Kiana Kholousi, Seyedeh Saba Sajasi, Arezoo Savlani
-Team's GitHub:
+#### GitHub:
 https://github.com/JavadRah/3GigaHZ.git
 
 ## 2020
