@@ -2,7 +2,7 @@
 This is our hardworking about RoboCup junior soccer. We release our work to improve junior competition.
 
 # Introduction
-The Farzanegan1 Team originally start working on 2017 in RoboCup junior soccer lightweight. After one year experience, The team member moved to Junior Soccer OpenWeight with the name PersianGulf. The PersianGulf Team is a part of the Farzanegan 1 RoboCup family.
+The Farzanegan1 Team originally start working on 2000 in RoboCup junior soccer. 
 
 # Member of Farzanegan 1 RoboCup family
 ## 2018
